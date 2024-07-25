@@ -316,8 +316,7 @@
     background-color: #edebe9;
     margin-top: 150px;
     padding-top: 35px;
-    padding-left: 100px;
-    
+    padding-left: 100px;  
 }
 
 .b4-1{
@@ -351,10 +350,8 @@
     bottom: 500px;
     padding-top: 20px;
 }
-.upimg:hover{
-    
+.upimg:hover{  
     background-color: rgba(0, 0, 0, 0.726);
-   
 }
 #hf{
     font-family: sans-serif;
